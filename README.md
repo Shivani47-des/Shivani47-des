@@ -39,7 +39,7 @@ const shivani = {
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-> Swap in any others you use (Docker, AWS, Tailwind, etc.) and I'll add them.
+
 
 ---
 
@@ -58,13 +58,13 @@ const shivani = {
 
 ### ⚔️ Competitive Programming
 
-| Platform | Handle | Rating |
+| Platform | Handle | 
 |---|---|---|
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [ShivaniSingh7](https://leetcode.com/u/ShivaniSingh7/) | — |
 | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | YOUR_HANDLE | — |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | YOUR_HANDLE | — |
 
-> Fill in your handles and ratings, or tell me and I'll update this.
+
 
 ---
 
