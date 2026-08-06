@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shivani</h1>
+<h3 align="center">Software Developer | Building things that (hopefully) work on the first try</h3>
 
-<!--
-**Shivani47-des/Shivani47-des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivani-singh-1a071128a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shivanis0339@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 About Me
+
+```js
+const shivani = {
+  pronouns: "she" | "her",
+  location: "India 🇮🇳",
+  education: "B.Tech CS (Final Year) — Noida Institute of Engineering and Technology 🎓",
+  interests: ["web dev", "backend systems", "problem solving"],
+  currentlyLearning: "always something new 🚀",
+  funFact: "Currently juggling final-year projects, placements, and DSA — send help ☕"
+};
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+> Swap in any others you use (Docker, AWS, Tailwind, etc.) and I'll add them.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivani47-des&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Shivani47-des&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani47-des&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
+---
+
+### ⚔️ Competitive Programming
+
+| Platform | Handle | Rating |
+|---|---|---|
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [ShivaniSingh7](https://leetcode.com/u/ShivaniSingh7/) | — |
+| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | YOUR_HANDLE | — |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | YOUR_HANDLE | — |
+
+> Fill in your handles and ratings, or tell me and I'll update this.
+
+---
+
+### 🚀 Featured Projects
+
+**[Safar Sathi](https://github.com/Shivani47-des/Safar-Sathi-1)**
+A full-stack web application to explore Jharkhand's eco, cultural, and adventure tourism destinations — featuring destination browsing with hover video previews, Email OTP authentication, booking management, and a rewards/points system.
+
+**[OrbitWatcher](https://github.com/Shivani47-des/OrbitWatcher)**
+Real-time Starlink satellite collision risk intelligence platform — live tracking of 10,000+ satellites with automated conjunction detection, risk scoring, and maneuver recommendations, built on real orbital data from CelesTrak.
+
+---
+
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos!</i></p>
