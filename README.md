@@ -58,11 +58,8 @@ const shivani = {
 
 ### ⚔️ Competitive Programming
 
-| Platform | Handle | 
-|---|---|---|
+
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [ShivaniSingh7](https://leetcode.com/u/ShivaniSingh7/) | — |
-| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | YOUR_HANDLE | — |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | YOUR_HANDLE | — |
 
 
 
