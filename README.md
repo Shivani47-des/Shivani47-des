@@ -1,7 +1,7 @@
 <!-- ===================================================== -->
 <!--                    ANIMATED HEADER                    -->
 <!-- ===================================================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:0E7490,100:34D399&text=Shivani%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20React%20•%20MySQL%20•%20Building%20Real-World%20Software&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:0E7490,100:34D399&text=Shivani%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20Building%20Real-World%20Software&descAlignY=55&descSize=20"/>
 
 <p align="center">
 
@@ -35,13 +35,13 @@
 
 # 👋 About Me
 
-I'm **Shivani Singh**, a final-year **Computer Science Engineering** student at **Noida Institute of Engineering and Technology**, focused on **full-stack web development**.
+I'm Shivani Singh, a Computer Science Engineering student focused on Full Stack Web Development.
 
-I build applications using **React, JavaScript, MySQL and modern web tooling**, while continuously strengthening my problem-solving skills through **Data Structures & Algorithms**.
+I build applications using React, JavaScript, MySQL and modern web tooling, while continuously strengthening my problem-solving skills through Data Structures & Algorithms.
 
-I enjoy the full picture of building software — from designing UI and handling authentication flows to structuring backend logic and databases.
+I enjoy understanding how software works end-to-end — from designing responsive interfaces and implementing authentication to structuring databases and backend logic.
 
----
+Building reliable software. Learning the engineering behind it.
 
 # 🚀 Current Focus
 
@@ -125,30 +125,19 @@ A satellite monitoring and orbital intelligence platform exploring **real-time s
 
 # 🧠 Data Structures & Algorithms
 
-I regularly practice **Data Structures & Algorithms in C/C++** as part of my software engineering preparation.
+I regularly practice Data Structures & Algorithms in C/C++ as part of my software engineering preparation.
 
-### Topics
+Topics
 
-`Arrays` • `Strings` • `Hashing` • `Binary Search` • `Linked Lists` • `Stacks` • `Queues` • `Sliding Window` • `Two Pointers` • `Trees` • `Recursion`
+Arrays • Strings • Hashing • Binary Search • Linked Lists • Stacks • Queues • Sliding Window • Two Pointers • Trees • Recursion
 
-<p>
-
-<a href="https://leetcode.com/u/ShivaniSingh7/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-0E7490?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
-
----
+<p> <a href="https://leetcode.com/u/ShivaniSingh7/"> <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-0E7490?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> </p> <p align="center"> <img src="https://leetcard.jacoblin.cool/ShivaniSingh7?theme=dark&font=Fira%20Code&ext=heatmap" width="75%"/> </p>
 
 # 📊 GitHub Analytics
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shivani47-des&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=34D399&icon_color=0E7490" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani47-des&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=34D399" width="42%"/>
 
-</p>
+
 
 <p align="center">
 
@@ -186,7 +175,7 @@ System Design
 Software Developer Role
 ```
 
-My goal is to become a strong **Software Developer** capable of building reliable, scalable full-stack applications.
+
 
 ---
 
