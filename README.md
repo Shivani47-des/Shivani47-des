@@ -133,13 +133,10 @@ I regularly practice **Data Structures & Algorithms in C/C++** as part of my sof
 
 ---
 
-# 📊 GitHub Analytics
 
 
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Shivani47-des&theme=tokyonight&hide_border=true&ring=F97316&fire=FBBF24" width="65%"/>
-</p>
+
 
 ---
 
@@ -172,31 +169,7 @@ Software Developer Role
 
 ---
 
-# 🤝 Let's Connect
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shivani-singh-1a071128a/">
-<img src="https://img.shields.io/badge/LinkedIn-EA580C?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:shivanis0339@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA580C?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/ShivaniSingh7/">
-<img src="https://img.shields.io/badge/LeetCode-EA580C?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Shivani47-des">
-<img src="https://img.shields.io/badge/GitHub-EA580C?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
 
 ### **"Build. Break. Debug. Learn. Repeat."**
 
