@@ -138,12 +138,14 @@ I regularly practice **Data Structures & Algorithms in C/C++** as part of my sof
 
 
 
----
-
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivani47-des&theme=tokyo-night&hide_border=true&area=true&color=FBBF24&line=F97316"/>
+  <img
+    src="https://raw.githubusercontent.com/Shivani47-des/Shivani47-des/output/activity-graph.svg"
+    alt="Shivani Singh GitHub Activity Graph"
+    width="90%"
+  />
 </p>
 
 ---
